@@ -1,0 +1,12 @@
+/home/gambl3r/Rust/telegrambotdev/BotDev/target/debug/deps/telebot-8d150c17ff4ee9a8.rmeta: /home/gambl3r/.cargo/registry/src/github.com-1ecc6299db9ec823/telebot-0.3.1/src/lib.rs /home/gambl3r/.cargo/registry/src/github.com-1ecc6299db9ec823/telebot-0.3.1/src/bot.rs /home/gambl3r/.cargo/registry/src/github.com-1ecc6299db9ec823/telebot-0.3.1/src/error.rs /home/gambl3r/.cargo/registry/src/github.com-1ecc6299db9ec823/telebot-0.3.1/src/objects.rs /home/gambl3r/.cargo/registry/src/github.com-1ecc6299db9ec823/telebot-0.3.1/src/functions.rs /home/gambl3r/.cargo/registry/src/github.com-1ecc6299db9ec823/telebot-0.3.1/src/file.rs
+
+/home/gambl3r/Rust/telegrambotdev/BotDev/target/debug/deps/libtelebot-8d150c17ff4ee9a8.rlib: /home/gambl3r/.cargo/registry/src/github.com-1ecc6299db9ec823/telebot-0.3.1/src/lib.rs /home/gambl3r/.cargo/registry/src/github.com-1ecc6299db9ec823/telebot-0.3.1/src/bot.rs /home/gambl3r/.cargo/registry/src/github.com-1ecc6299db9ec823/telebot-0.3.1/src/error.rs /home/gambl3r/.cargo/registry/src/github.com-1ecc6299db9ec823/telebot-0.3.1/src/objects.rs /home/gambl3r/.cargo/registry/src/github.com-1ecc6299db9ec823/telebot-0.3.1/src/functions.rs /home/gambl3r/.cargo/registry/src/github.com-1ecc6299db9ec823/telebot-0.3.1/src/file.rs
+
+/home/gambl3r/Rust/telegrambotdev/BotDev/target/debug/deps/telebot-8d150c17ff4ee9a8.d: /home/gambl3r/.cargo/registry/src/github.com-1ecc6299db9ec823/telebot-0.3.1/src/lib.rs /home/gambl3r/.cargo/registry/src/github.com-1ecc6299db9ec823/telebot-0.3.1/src/bot.rs /home/gambl3r/.cargo/registry/src/github.com-1ecc6299db9ec823/telebot-0.3.1/src/error.rs /home/gambl3r/.cargo/registry/src/github.com-1ecc6299db9ec823/telebot-0.3.1/src/objects.rs /home/gambl3r/.cargo/registry/src/github.com-1ecc6299db9ec823/telebot-0.3.1/src/functions.rs /home/gambl3r/.cargo/registry/src/github.com-1ecc6299db9ec823/telebot-0.3.1/src/file.rs
+
+/home/gambl3r/.cargo/registry/src/github.com-1ecc6299db9ec823/telebot-0.3.1/src/lib.rs:
+/home/gambl3r/.cargo/registry/src/github.com-1ecc6299db9ec823/telebot-0.3.1/src/bot.rs:
+/home/gambl3r/.cargo/registry/src/github.com-1ecc6299db9ec823/telebot-0.3.1/src/error.rs:
+/home/gambl3r/.cargo/registry/src/github.com-1ecc6299db9ec823/telebot-0.3.1/src/objects.rs:
+/home/gambl3r/.cargo/registry/src/github.com-1ecc6299db9ec823/telebot-0.3.1/src/functions.rs:
+/home/gambl3r/.cargo/registry/src/github.com-1ecc6299db9ec823/telebot-0.3.1/src/file.rs:
